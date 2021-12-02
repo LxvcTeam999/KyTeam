@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#LxvcTeamV1.2
+#BimzDDOS V1.2
 import socket
 import random
 import threading
